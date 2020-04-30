@@ -41,8 +41,6 @@ Une fois le téléchargement effectué, déplacé le .zip dans le répertoire qu
 
 ### Utiliser le terminal
 
-<![endif]-->
-
 Placez-vous dans le répertoire où vous souhaitez travailler et tapez la commande :
 
  > git clone_ https://github.com/PtspluS/jisgsAIW
@@ -94,8 +92,6 @@ Le build d’une APK signé sert pour une publication en ligne.
 Pour pouvoir installer l’APK sans passer par le marché officiel d’Android, il est obligatoire de toucher aux paramètres du téléphone.
 
 L’étape la plus importante consiste à aller dans les paramètres du téléphone et de sélectionner l’option autorisant les sources inconnues.
-
-<![endif]-->
 
 ## 1) Téléchargement
 
